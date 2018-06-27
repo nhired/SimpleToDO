@@ -4,7 +4,7 @@ Simple To Do is an android app that allows building a todo list and basic todo i
 
 Submitted by: **Nimo Hired**
 
-Time spent: **** hours spent in total
+Time spent: 5 hours spent in total
 
 ## User Stories
 
